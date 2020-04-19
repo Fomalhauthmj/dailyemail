@@ -24,7 +24,7 @@ jobs:
           password: ${{ secrets.MAILPASSWORD }}
           subject: Daily email
           body: file://result.html
-          to: njtech_ztt@qq.com
+          to: hemengmeng2017@outlook.com
           from: GitHub Actions
           content_type: text/html
 
@@ -32,8 +32,11 @@ jobs:
         run: |
           git config --local user.email "njtech_hemengjie@qq.com"
           git config --local user.name "hemengjie in dailyemail"
+          git add old.md result.html
           git commit -m "Add changes" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUBTOKEN }}
+
+          
