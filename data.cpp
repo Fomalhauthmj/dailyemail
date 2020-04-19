@@ -31,7 +31,7 @@ void parser(char *path, map<string, set<string>> &cur)
 struct html
 {
     string head, tail;
-    vector<pair<string, string>> data1, data2;
+    vector<pair<string, string>> data1, data2, data3;
     void setcols(string s1, string s2)
     {
         head = "<html><body><table border=\"1\" align=\"center\"><tr><th>" + s1 + "</th><th>" + s2 + "</th></tr>";
@@ -48,6 +48,11 @@ struct html
         setcols("大学", "移去信息");
         out << head << endl;
         for (auto item : data2)
+            out << "<tr><th>" << item.first << "</th><th>" << item.second << "</th></tr>" << endl;
+        out << tail << endl;
+        setcols("大学", "目前信息");
+        out << head << endl;
+        for (auto item : data3)
             out << "<tr><th>" << item.first << "</th><th>" << item.second << "</th></tr>" << endl;
         out << tail << endl;
     }
@@ -86,6 +91,8 @@ void diff_result(char *path)
             for (auto info : item.second)
                 result.data1.push_back({item.first, info});
         }
+        for (auto info : item.second)
+            result.data3.push_back({item.first, info});
     }
     result.print(path);
 }
