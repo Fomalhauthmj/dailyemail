@@ -1,4 +1,4 @@
-name: 'GitHub Actions Test Bot'
+name: 'Daily email'
 
 on:
   push:
@@ -9,11 +9,13 @@ jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout codes'
-        uses: actions/checkout@v1
-      - name: 'Run task'
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Run task
         run: bash ./task.sh
-      - name: 'Send mail'
+
+      - name: Send mail
         uses: dawidd6/action-send-mail@master
         with:
           server_address: smtp.qq.com
@@ -25,3 +27,13 @@ jobs:
           to: njtech_ztt@qq.com
           from: GitHub Actions
           content_type: text/html
+
+      - name: Commit files
+        run: |
+          git config --local user.email "njtech_hemengjie@qq.com"
+          git config --local user.name "hemengjie in dailyemail"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUBTOKEN }}
