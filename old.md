@@ -3,7 +3,7 @@
 
 
 # 清华大学
-【2020年4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
+【4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
 
 ~~【报名截止】[清华大学自动化系智能与网络化系统研究中心招生夏令营](https://www.wjx.cn/m/64524902.aspx)~~
 
@@ -19,12 +19,15 @@
 # 浙江大学
 
 # 复旦大学
+【即日起6月20日晚24：00】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)
 
 # 南京大学
 
 # 中国科学院大学
 
 # 中国科学技术大学
+
+【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
 
 # 中国人民大学
 
