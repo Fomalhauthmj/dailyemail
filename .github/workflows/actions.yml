@@ -23,7 +23,7 @@ jobs:
           password: ${{ secrets.MAILPASSWORD }}
           subject: Daily email:2020 夏令营信息
           body: file://result.html
-          to: hemengmeng2017@outlook.com
+          to: hemengmeng2017@outlook.com,577662673@qq.com
           from: Dailyemail:hemengjie
           content_type: text/html
 
