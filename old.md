@@ -28,7 +28,7 @@
 【即日起至6月22日24点】[2020年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/9a/36/c13543a236086/page.htm)
 
 
-【6月8日至6月20日】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)
+【即日起至6月20日】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)
 
 # 南京大学
 【即日起至6月25日】[南京大学计算机科学与技术系暨人工智能学院2020年本科生开放日报名通知](https://cs.nju.edu.cn/55/67/c1654a480615/page.htm)
@@ -38,7 +38,7 @@
 # 中国科学院大学
 【截止时间待定】[中国科学院自动化研究所“人工智能”大学生暑期学校2020年招生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202005/t20200525_5585618.html)
 
-【即日起6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
+【即日起至6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
 
 【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
 
@@ -81,4 +81,8 @@
 【即日起至6月19日】[报名通知|华东师范大学第八届“云计算与大数据”优秀大学生夏令营即将开营](https://mp.weixin.qq.com/s?__biz=MzIxODAyMzYzMQ==&mid=2720887036&idx=1&sn=14a08f7c24f0c74dd47b8eb6f87bd40e&chksm=b029035c875e8a4a091082cdf3997fb75adec78fc10af053cfaa3f2bcb0769e37b40229f0c96&mpshare=1&scene=1&srcid=&sharer_sharetime=1591326647124&sharer_shareid=b189d1becf403e4977306b65ef226ca1&key=57473e4cb71c30cbc031e17b00f7faeb56f30f86cb29262d6f690a29926f5d017e3102fe38f3a37984cc78ef87adc10ba3ad7cd6f11d48a70474ee15d34667fcb092038df19b7d67ffcdd70b2b5ba7a3&ascene=1&uin=MjEyNTU4NDk2&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AVQQWPdIP1mDKytP2RB0vcc%3D&pass_ticket=cVESYfklYtNtwm5%2BHHxJYHTPNjrvTAUhdca%2BVLJ98ls%3D)
 
 
-# 
+# 上海财经大学
+
+【即日起至6月30日】[关于举办2020年“上财信管硕博连读和直博选拔夏令营”的通知](https://gs.sufe.edu.cn/Home/NewsDetail/2441)
+
+【即日起至7月5日】[上海财经大学交叉科学研究院关于举办2020年“上财交叉科学研究院硕博连读生和直博生选拔夏令营”的通知](https://gs.sufe.edu.cn/Home/NewsDetail/2442)
