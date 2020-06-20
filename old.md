@@ -33,6 +33,8 @@
 
 ~~【报名截止】[北京大学信息科学技术学院关于举办2020年信息学科优秀大学生夏令营的通知（第二轮）](https://eecs.pku.edu.cn/info/1060/10515.htm)~~
 
+【即日起至7月11日】[北京大学信息工程学院关于举办“2020年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2020/anotice_0619/2304.html)
+
 # 上海交通大学
 【即日起至6月25日23:59】[上海交通大学密西根学院 2021年研究生招生夏令营报名通知](http://umji.sjtu.edu.cn/cn/news/2020-0605-1547/)
 
@@ -82,6 +84,8 @@
 
 【即日起至7月10日】[中科院上海高等研究院2020年大学生暑假夏令营活动通知](http://119.78.243.182/web/contentList.html?type=sszs&firstMenu=zssz&nsukey=nNSUWUo7renqGEFrATSN4k%2BZKNqImJmD5IIBTtX3OLR3wr1bmBG1OXwcslMAIJhdKjTaS4u0vLdoQDCwHWLwo9T6bcDMxeG9z9YJSapirbySlMQ4WjBR7UuyKCIXMZL3rG2BsnNICERUCy9CMDIL1MmHTgzo5dZHQvJ0Q8N2t3w%3D)
 
+【截止时间待定】[中国科学院深圳先进技术研究院 2020 年大学生学术夏令营招生简章](http://www.siat.ac.cn/yjsjy2016/zsjs2016/202006/P020200616637848539860.pdf)
+
 # 中国科学技术大学
 
 【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
@@ -96,6 +100,9 @@
 【即日起至7月5日12:00】[中国人民大学高瓴人工智能学院2020年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20200604001.html)
 
 # 北京航空航天大学
+
+# 武汉大学
+【即日起至7月3日】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)
 
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)
@@ -191,6 +198,13 @@
 
 # 北京交通大学
 【即日起至7月3日】[2020年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营选拔通知](http://scit.bjtu.edu.cn/cms/item/4582.html)
+
+# 厦门大学
+【即日起至6月30日】[信息学院2020年暑期夏令营报名指南](https://information.xmu.edu.cn/info/1050/15364.htm)
+
+# 南京邮电大学
+【即日起至7月20日】[关于举办2020 年江苏省研究生“智慧物联网与网络空间安全”暑期学校的通知](http://pg.njupt.edu.cn/2020/0619/c1049a167245/page.htm)
+
 
 ### 查看更多保研信息与干货分享，请关注公众号--CS引路人:
 ![](https://s1.ax1x.com/2020/06/17/NA78XQ.png)
